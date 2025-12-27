@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+scikit-learn
+paramiko
+numpy
+watchdog
+faker
