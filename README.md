@@ -18,3 +18,10 @@ Unlike traditional firewalls that use static rules, Sentinel-AI analyzes behavio
 * **Visualization:** Streamlit, Altair
 
 ### 📸 Screenshots
+**1. Live Threat Dashboard**
+![Dashboard View](screenshots/dashboard.png)
+*Real-time visualization of incoming attacks classified by the Machine Learning engine.*
+
+**2. Forensic Logs**
+![Forensic Data](screenshots/logs.png)
+*Detailed capture of session duration, unique commands, and attack vectors.*
